@@ -8,3 +8,7 @@ console.log(`Tvoie imya ` + Name);
 console.log(`type of age: ${typeof age}`);
 console.log(`type of Name:`, typeof Name);
 console.log(`type of Online:, ${typeof online}. Znachennya online: ` + online);
+
+console.log(
+  `Hello, my name is ${Name}, I am ${age} years old. Am I online? ${online}`
+);
